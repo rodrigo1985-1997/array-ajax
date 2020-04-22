@@ -1,0 +1,38 @@
+{
+"array"[
+  {
+  "id"= 65645601,
+  "nombre"="rodrigo",
+  "apellido"="muñoz",
+  "edad"= 34
+  },
+  
+   {
+  "id"= 2165602,
+  "nombre"="cynthia",
+  "apellido"="muñoz",
+  "edad"= 29
+  },
+  
+   {
+  "id"= 7458,
+  "nombre"="marcos",
+  "apellido"="gonazles",
+  "edad"= 19
+  },
+  
+   {
+  "id"= 4846848,
+  "nombre"="ana",
+  "apellido"="alvarez",
+  "edad"= 56
+  },
+  
+   {
+  "id"= 6861245,
+  "nombre"="henry",
+  "apellido"="guzman",
+  "edad"= 45
+  }
+]
+}
