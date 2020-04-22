@@ -1,38 +1,36 @@
+
 {
-"array"[
-  {
-  "id"= 65645601,
-  "nombre"="rodrigo",
-  "apellido"="muñoz",
-  "edad"= 34
-  },
-  
-   {
-  "id"= 2165602,
-  "nombre"="cynthia",
-  "apellido"="muñoz",
-  "edad"= 29
-  },
-  
-   {
-  "id"= 7458,
-  "nombre"="marcos",
-  "apellido"="gonazles",
-  "edad"= 19
-  },
-  
-   {
-  "id"= 4846848,
-  "nombre"="ana",
-  "apellido"="alvarez",
-  "edad"= 56
-  },
-  
-   {
-  "id"= 6861245,
-  "nombre"="henry",
-  "apellido"="guzman",
-  "edad"= 45
-  }
-]
+    "personas" : [
+    {
+      " id " : 566458 ,
+      " nombre " : " rodrigo" ,
+      " apellido " : " muñoz ",
+      "edad ": 34
+    },
+        {
+      " id " : 2545454 ,
+      " nombre " : " henry" ,
+      " apellido " : " guzman " ,
+      "edad ": 45
+    },
+               {
+      " id " : 3545454 ,
+      " nombre " : " eliana" ,
+      " apellido " : " bornacelly",
+      "edad ": 29           
+    },
+        {
+      " id " : 4547848 ,
+      " nombre " : " cynthia " ,
+      " apellido " : " muñoz",
+      "edad ": 25    
+    },
+        {
+      " id " : 5654564 ,
+      " nombre " : " ana" ,
+      " apellido " : " alvarez ",
+      "edad ": 56  
+    }
+       
+  ]
 }
